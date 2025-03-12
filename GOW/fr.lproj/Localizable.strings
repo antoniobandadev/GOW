@@ -6,41 +6,41 @@
   
 */
 
-/* MENU*/
-"menu.option.videogames" = "Videogames";
-"menu.option.weapons" = "Weapons";
-"menu.option.characters" = "Characters";
-"menu.option.merchandise" = "Merchandise";
+/* MENU */
+"menu.option.videogames" = "Jeux vidéo";
+"menu.option.weapons" = "Armes";
+"menu.option.characters" = "Personnages";
+"menu.option.merchandise" = "Marchandises";
 
 /* WEAPONS */
 /* Locust */
-"weapon.name.boomshot" = "Boomshot Grenade Launcher";
-"weapon.description.boomshot" = "Was a single-shot, pump-action grenade launcher designed and used primarily by Locust, specifically the Boomer.";
+"weapon.name.boomshot" = "Lance-grenades Boomshot";
+"weapon.description.boomshot" = "Était un lance-grenades à pompe à un seul tir, conçu et utilisé principalement par les Locustes, en particulier les Boomers.";
 
 "weapon.name.hammerburstii" = "Hammerburst II";
-"weapon.description.hammerburstii" = "Was the Locust standard-issue, high-powered assault rifle. It is often referred to as the Locust counterpart to the COG Lancer Assault Rifle.";
+"weapon.description.hammerburstii" = "Était le fusil d'assaut standard des Locustes, à haute puissance. Il est souvent appelé le pendant des Locustes au fusil d'assaut Lancer des COG.";
 
 "weapon.name.mulcher" = "Mulcher";
-"weapon.description.mulcher" = "The Mulcher is a heavy, hand-cranked, rotary gatling gun developed by the Coalition of Ordered Governments.";
+"weapon.description.mulcher" = "Le Mulcher est une mitrailleuse rotative à manivelle lourde, développée par la Coalition des Gouvernements Ordonnés.";
 
-"weapon.name.bolo_grenade" = "Bolo Grenade";
-"weapon.description.bolo_grenade" = "The Bolo Grenade, otherwise known as the Fragmentation Grenade, was the standard-issue fragmentation grenade used by the Coalition of Ordered Governments, the Locust Horde and the Swarm.";
+"weapon.name.bolo_grenade" = "Grenade Bolo";
+"weapon.description.bolo_grenade" = "La Grenade Bolo, également connue sous le nom de Grenade à fragmentation, était la grenade à fragmentation standard utilisée par la Coalition des Gouvernements Ordonnés, la Horde Locuste et le Swarm.";
 
-"weapon.name.boltok" = "Boltok Pistol";
-"weapon.description.boltok" = "Was the standard-issue sidearm of the Locust, specifically the Drones. The pistol continues the Locust weapon-design philosophy of creating weapons with an emphasis towards brute force.";
+"weapon.name.boltok" = "Pistolet Boltok";
+"weapon.description.boltok" = "Était l'arme de poing standard des Locustes, spécifiquement des Drones. Le pistolet suit la philosophie de conception des armes des Locustes, qui consiste à créer des armes axées sur la force brute.";
 
 /* Cgo */
-"weapon.name.lancer" = "Mark 1 Lancer Assault Rifle";
-"weapon.description.lancer" = "Dubbed the Retro Lancer during the Lambent Pandemic, was the predecessor to the Mark 2 Lancer Assault Rifle. Formerly the main assault rifle of the Coalition of Ordered Governments Army, the Mark 1 Assault Rifle was used throughout the Pendulum War.";
+"weapon.name.lancer" = "Fusil d'assaut Lancer Mark 1";
+"weapon.description.lancer" = "Surnommé le Retro Lancer pendant la pandémie Lambent, était le prédécesseur du Fusil d'assaut Lancer Mark 2. Anciennement le fusil d'assaut principal de l'Armée de la Coalition des Gouvernements Ordonnés, le Fusil d'assaut Mark 1 a été utilisé tout au long de la Guerre des Pendulums.";
 
-"weapon.name.lancer2" = "Mark 2 Lancer Assault Rifle";
-"weapon.description.lancer2" = "An upgrade to the Mark 1 Lancer Assault Rifle, produced with a chainsaw bayonet, increased accuracy, lower recoil, and larger ammunition carrying capacity but less firepower compared to its predecessor.";
+"weapon.name.lancer2" = "Fusil d'assaut Lancer Mark 2";
+"weapon.description.lancer2" = "Une mise à jour du Fusil d'assaut Lancer Mark 1, produit avec une baïonnette à tronçonneuse, une précision améliorée, moins de recul et une capacité de munitions plus grande, mais avec moins de puissance de feu comparé à son prédécesseur.";
 
-"weapon.name.sniper" = "Longshot Sniper Rifle";
-"weapon.description.sniper" = "Was a high-caliber, single-shot, bolt-action sniper rifle. Created by the Coalition of Ordered Governments during the Pendulum Wars, the Longshot was used even seventeen years after Emergence Day.";
+"weapon.name.sniper" = "Fusil de sniper Longshot";
+"weapon.description.sniper" = "Était un fusil de sniper à action à verrou, de calibre élevé, à un seul tir. Créé par la Coalition des Gouvernements Ordonnés pendant les Guerres Pendulums, le Longshot a été utilisé même dix-sept ans après le Jour de l'Émergence.";
 
-"weapon.name.hammer_of_dawn" = "Hammer of Dawn";
-"weapon.description.hammer_of_dawn" = "The Hammer of Dawn was a COG Imulsion-energized, orbital, satellite-based laser. Its key components were invented by the UIR scientist Mauris Ivo and completed by professor Adam Fenix after it was stolen during Operation: Leveler.";
+"weapon.name.hammer_of_dawn" = "Marteau de l'Aube";
+"weapon.description.hammer_of_dawn" = "Le Marteau de l'Aube était un laser orbital, alimenté par Imulsion, de la COG. Ses composants clés ont été inventés par le scientifique de l'UIR Mauris Ivo et terminés par le professeur Adam Fenix après avoir été volés lors de l'opération : Leveler.";
 
-"weapon.name.mx8" = "PMX8 Snub Pistol";
-"weapon.description.mx8" = "Was the standard sidearm for Coalition of Ordered Governments armed forces personnel";
+"weapon.name.mx8" = "Pistolet PMX8";
+"weapon.description.mx8" = "Était l'arme de poing standard pour le personnel des forces armées de la Coalition des Gouvernements Ordonnés";

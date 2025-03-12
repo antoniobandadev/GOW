@@ -8,10 +8,18 @@
 import UIKit
 
 class WeaponsCell: UITableViewCell {
-
+    
+    
+    @IBOutlet weak var wName: UILabel!
+    @IBOutlet weak var wPoster: UIImageView!
+    @IBOutlet weak var wDescription: UILabel!
+    
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
+        wName.setCustomFont(fontName: Constants.fontMenuTitle, size: Constants.fontSizeDefault, textStyle: .title1)
+        
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {

@@ -22,7 +22,7 @@
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
                         <constraints>
                             <constraint firstItem="SyL-pe-cvq" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="HE0-kH-VNY"/>
                             <constraint firstItem="SyL-pe-cvq" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="ZNJ-hr-Fr8"/>
@@ -36,8 +36,8 @@
     </scenes>
     <resources>
         <image name="load" width="256" height="256"/>
-        <systemColor name="systemBackgroundColor">
-            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
     </resources>
 </document>
