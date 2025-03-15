@@ -44,3 +44,47 @@
 
 "weapon.name.mx8" = "Pistolet PMX8";
 "weapon.description.mx8" = "Était l'arme de poing standard pour le personnel des forces armées de la Coalition des Gouvernements Ordonnés";
+
+
+/* Characters */
+
+"character.name.marcus_fenix" = "Marcus Fenix";
+"character.description.marcus_fenix" = "Le leader des Gears et héros de la guerre contre les Locustes. Marcus est un soldat endurci, déterminé et dévoué à sauver l'humanité.";
+
+"character.name.dom_santiago" = "Dominic Santiago";
+"character.description.dom_santiago" = "Le fidèle compagnon de Marcus, un soldat courageux avec un grand cœur. Il lutte pour la famille et la survie de l'humanité, tout en portant le poids de la perte de sa femme.";
+
+"character.name.kait_diaz" = "Kait Diaz";
+"character.description.kait_diaz" = "Un membre important des Gears, Kait a des liens familiaux profonds avec les Locustes. Elle est forte, résolue et prête à tout pour protéger ses proches.";
+
+"character.name.jd_fenix" = "JD Fenix";
+"character.description.jd_fenix" = "Fils de Marcus Fenix, JD suit les traces de son père dans la lutte contre les menaces qui pèsent sur l'humanité. Son courage et sa loyauté font de lui un leader né.";
+
+"character.name.swarm_hunter" = "Swarm Hunter";
+"character.description.swarm_hunter" = "Les chasseurs du Swarm sont des ennemis rapides et furtifs, spécialisés dans l'embuscade et l'attaque surprise. Leur agilité les rend redoutables sur le champ de bataille.";
+
+"character.name.jace_stroud" = "Jace Stroud";
+"character.description.jace_stroud" = "Un membre clé des Gears, Jace Stroud est un ancien soldat qui est devenu une partie vitale des efforts de la COG pour combattre le Swarm. Il est courageux, ingénieux et toujours prêt à se battre pour l'humanité.";
+
+"character.name.anya_stroud" = "Anya Stroud";
+"character.description.anya_stroud" = "Ancienne soldat de la COG et membre crucial du commandement des Gears, Anya Stroud est connue pour son intelligence, sa détermination et son leadership. Elle joue un rôle clé dans la stratégie et guide les Gears vers la victoire.";
+
+/* MARCHANDISE */
+
+"merchandise.name.tshirt_gear" = "T-shirt";
+"merchandise.description.tshirt_gear" = "Un t-shirt élégant avec le logo emblématique de Gears of War. Parfait pour les fans de la saga qui souhaitent montrer leur loyauté.";
+
+"merchandise.name.hat_gear" = "Casquette";
+"merchandise.description.hat_gear" = "Une casquette robuste avec le logo de Gears of War sur le devant. Confortable et pratique, parfaite pour afficher votre passion pour la série.";
+
+"merchandise.name.mug_gear" = "Mug";
+"merchandise.description.mug_gear" = "Un mug solide avec le logo de Gears of War, parfait pour boire votre café avant de partir en guerre contre les Locust. Idéal pour tous les fans de la saga.";
+
+"merchandise.name.sweatshirt_gear" = "Sweatshirt";
+"merchandise.description.sweatshirt_gear" = "Un sweatshirt chaud et confortable avec le logo emblématique de Gears of War. Idéal pour les journées froides ou pour se détendre.";
+
+"merchandise.name.canvas_gear" = "Toile";
+"merchandise.description.canvas_gear" = "Une toile de haute qualité mettant en avant une image emblématique de Gears of War. Parfait pour décorer votre maison ou votre espace de jeu.";
+
+"merchandise.name.patch_gear" = "Patch brode";
+"merchandise.description.patch_gear" = "Un patch brode avec le logo de Gears of War. Parfait pour personnaliser des vestes, des sacs et autres accessoires.";
