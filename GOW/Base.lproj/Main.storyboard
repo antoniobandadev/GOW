@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="t6t-Q1-k09">
-    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <device id="retina6_12" orientation="portrait" appearance="dark"/>
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
@@ -18,7 +18,7 @@
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" id="3x8-If-SJa">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" systemColor="labelColor"/>
+                        <color key="backgroundColor" name="GOWBlack1"/>
                         <color key="tintColor" name="GOWText"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" rowHeight="60" id="ITi-su-7Wf" customClass="MenuOptionCell" customModule="GOW" customModuleProvider="target">
@@ -45,7 +45,7 @@
                                             <nil key="highlightedColor"/>
                                         </label>
                                     </subviews>
-                                    <color key="backgroundColor" systemColor="labelColor"/>
+                                    <color key="backgroundColor" name="GOWBlack1"/>
                                     <constraints>
                                         <constraint firstAttribute="trailing" secondItem="tIZ-kZ-J30" secondAttribute="trailing" id="0UG-3y-nQP"/>
                                         <constraint firstItem="tIZ-kZ-J30" firstAttribute="top" secondItem="rXN-lL-NeS" secondAttribute="top" id="4Sg-7o-Os6"/>
@@ -242,7 +242,7 @@
                         <subviews>
                             <imageView clipsSubviews="YES" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="YGs-fa-WA0">
                                 <rect key="frame" x="0.0" y="103" width="393" height="715"/>
-                                <color key="backgroundColor" systemColor="labelColor"/>
+                                <color key="backgroundColor" name="GOWBlack1"/>
                                 <color key="tintColor" name="GOWText"/>
                                 <gestureRecognizers/>
                                 <connections>
@@ -301,7 +301,7 @@
                             </imageView>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="350" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="uhx-TI-j8R">
                                 <rect key="frame" x="10" y="313" width="373" height="456"/>
-                                <color key="backgroundColor" systemColor="labelColor"/>
+                                <color key="backgroundColor" name="GOWBlack1"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="cell" rowHeight="300" id="k3E-Pz-4Bw" customClass="WeaponsCell" customModule="GOW" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="50" width="373" height="300"/>
@@ -335,7 +335,7 @@
                                                             <nil key="highlightedColor"/>
                                                         </label>
                                                     </subviews>
-                                                    <color key="backgroundColor" systemColor="labelColor"/>
+                                                    <color key="backgroundColor" name="GOWBlack1"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="300" id="1Uh-0A-04w"/>
                                                         <constraint firstItem="J5K-J0-Bub" firstAttribute="top" secondItem="TdB-MW-hAH" secondAttribute="bottom" constant="5" id="1Vi-qs-Yjo"/>
@@ -351,13 +351,14 @@
                                                     </constraints>
                                                 </view>
                                             </subviews>
+                                            <color key="backgroundColor" name="GOWBlack1"/>
                                             <constraints>
                                                 <constraint firstAttribute="trailingMargin" secondItem="asd-LZ-tZj" secondAttribute="trailing" id="1D9-NA-a6R"/>
                                                 <constraint firstItem="asd-LZ-tZj" firstAttribute="leading" secondItem="4Wv-7s-pnz" secondAttribute="leadingMargin" id="9AA-L2-mxc"/>
                                                 <constraint firstItem="asd-LZ-tZj" firstAttribute="top" secondItem="4Wv-7s-pnz" secondAttribute="topMargin" id="WA2-VK-vTB"/>
                                             </constraints>
                                         </tableViewCellContentView>
-                                        <color key="backgroundColor" systemColor="labelColor"/>
+                                        <color key="backgroundColor" name="GOWBlack1"/>
                                         <connections>
                                             <outlet property="wDescription" destination="rpo-wj-TZz" id="dsc-EF-LrH"/>
                                             <outlet property="wName" destination="TdB-MW-hAH" id="bbw-iS-mRS"/>
@@ -422,7 +423,7 @@
                     </tabBar>
                     <connections>
                         <segue destination="Udd-8A-AR7" kind="relationship" relationship="viewControllers" id="pjT-sx-9E2"/>
-                        <segue destination="NHc-D9-XHW" kind="relationship" relationship="viewControllers" id="a4E-ib-URj"/>
+                        <segue destination="NHc-D9-XHW" kind="relationship" relationship="viewControllers" id="3Rg-Ek-nxS"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pe6-wW-4yg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -600,7 +601,7 @@
                             </imageView>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="250" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="OVg-i8-mg1">
                                 <rect key="frame" x="10" y="313" width="373" height="456"/>
-                                <color key="backgroundColor" systemColor="labelColor"/>
+                                <color key="backgroundColor" name="GOWBlack1"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="cell" rowHeight="250" id="j4h-j3-F59" customClass="WeaponsCell" customModule="GOW" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="50" width="373" height="250"/>
@@ -635,7 +636,7 @@
                                                             <nil key="highlightedColor"/>
                                                         </label>
                                                     </subviews>
-                                                    <color key="backgroundColor" systemColor="labelColor"/>
+                                                    <color key="backgroundColor" name="GOWBlack1"/>
                                                     <constraints>
                                                         <constraint firstItem="kGj-vq-mgB" firstAttribute="leading" secondItem="WPv-mw-0XV" secondAttribute="leading" id="0fq-5e-a7M"/>
                                                         <constraint firstAttribute="height" constant="250" id="SrU-Dh-qpq"/>
@@ -650,6 +651,7 @@
                                                     </constraints>
                                                 </view>
                                             </subviews>
+                                            <color key="backgroundColor" name="GOWBlack1"/>
                                             <constraints>
                                                 <constraint firstItem="WPv-mw-0XV" firstAttribute="top" secondItem="Jib-VH-Yw9" secondAttribute="topMargin" id="PVf-mA-sko"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="WPv-mw-0XV" secondAttribute="trailing" id="RTA-kq-Gbk"/>
@@ -678,7 +680,7 @@
                             <constraint firstItem="OVg-i8-mg1" firstAttribute="leading" secondItem="q7t-Ex-4kN" secondAttribute="leading" constant="10" id="y5b-cU-82k"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" tag="1" title="Locust" selectedImage="locust" id="ua5-qT-Rop"/>
+                    <tabBarItem key="tabBarItem" tag="1" title="Locust" image="locust 1" id="ua5-qT-Rop"/>
                     <navigationItem key="navigationItem" id="KpG-Tj-fKc"/>
                     <connections>
                         <outlet property="wTableView" destination="OVg-i8-mg1" id="W2b-as-MyS"/>
@@ -694,7 +696,7 @@
         <image name="cgo" width="30" height="30"/>
         <image name="headerGOW" width="393" height="346"/>
         <image name="headerLocus" width="1512" height="712"/>
-        <image name="locust" width="30" height="30"/>
+        <image name="locust 1" width="30" height="30"/>
         <image name="xmark.circle.fill" catalog="system" width="128" height="123"/>
         <namedColor name="AccentColor">
             <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
